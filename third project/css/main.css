@@ -11,6 +11,12 @@ img {
   height: auto;
 }
 
+main {
+  padding: 50px 3%;
+}
+
+
+
 .header {
   background: black;
   width: 100%;
@@ -103,6 +109,4 @@ h3:hover {
     grid-template-rows: auto;
     grid-template-areas: 'sec4 sec3';
   }
-
-
 }
